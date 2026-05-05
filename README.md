@@ -106,7 +106,7 @@ Computer Science Graduate specializing in **Bio-AI and Computer Vision**. Experi
 		</td>
 		<td width="50%" valign="top">
 			<h3><a href="#">Secure Fingerprint Auth</a></h3>
-			<p>A C++ biometric identification system achieving 0.95 AUC with RootSIFT descriptors and a Differential Privacy layer for HIPAA compliance.</p>
+			<p>A biometric identification system achieving 0.95 AUC with RootSIFT descriptors and a Differential Privacy layer for HIPAA compliance.</p>
 			<p>
 				<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" alt="Python"/>
 				<img src="https://img.shields.io/badge/Privacy-0E1111" alt="Privacy"/>
